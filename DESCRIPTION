@@ -1,0 +1,11 @@
+Package: PARC.DMP.DSW.Guide
+Title: PARC DMP DSW Guide
+Version: 0.0.0.9000
+Authors@R: 
+    person("Gerhard", "Burger", , "burger.ga@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-1062-5576"))
+Description: Provides a DS Wizard guide for the PARC Project-level DMP DSW process as a Quarto book.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: 
+    rmarkdown
