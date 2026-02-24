@@ -44,6 +44,11 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - dsw.qmd
+    - create_project.qmd
+    - misc.qmd
+  appendices:
+    - appendix.qmd
     - references.qmd
   # downloads: [pdf]
   site-url: https://eu-parc.github.io/project-dmp-guide
