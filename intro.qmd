@@ -2,7 +2,7 @@
 
 Good data management in projects help ensure the project creates
 long-term value by making data readily Findable, Accessible,
-Interoperable, and Reusable. Through a set of guiding questions, data
+Interoperable, and Reusable (FAIR)[@FAIR]. Through a set of guiding questions, data
 management plans (DMPs) help project managers reflect and understand how
 their choices can underpin good data management for their project. They
 become aware of ethical obligations and the regulatory constraints,
@@ -36,15 +36,13 @@ generated, as these will be persistent (see section Creating a
 project-DMP from a Project Template).
 
 To comply with the need for Findable, Accessible, Interoperable and
-Reusable (FAIR) research outputs as indicated in the [PARC Data
+Reusable (FAIR) research outputs as indicated in the PARC Data
 Management
-Plan](https://www.eu-parc.eu/sites/default/files/2023-10/PARC_D7.1.pdf)
-(DMP) and [PARC FAIR Data
-Policy](https://www.eu-parc.eu/sites/default/files/2024-09/PARC_D7.2.pdf),
+Plan [@DMPv1] and PARC FAIR Data Policy [@PFDP],
 this user manual serves to help PARC project managers / leads to
 generate project-specific DMPs in the PARC Data Stewardship Wizard
 (DSW). The PARC DMP Knowledge Model (i.e., template of the
-questionnaire) has been customised^[The existing ELIXIR DMP template had more than 600 questions. The foreseen effort to complete all of these for each individual PARC project was considered to be way too high for PARC researchers. Therefore, in order to reduce the burden to PARC, the DMP team had weekly meetings in 2025 to discuss the relevance for PARC of the questions one- by-one, without compromising the FAIRness of research outputs and (future) possibility to include domain specific knowledge (e.g. via reference FAIR Implementation Profiles which have machine actionable resources to choose from). This was followed with a test/pilot phase involving three projects from WP5. Post the trial phase, further reduction of questions as well as modification and addition of questions to accommodate PARC project needs were made to create an updated version of the Knowledge Model.] to suit PARC's ambitions and
+questionnaire) has been customised^[The existing ELIXIR DMP template [@dsw_root] had more than 600 questions. The foreseen effort to complete all of these for each individual PARC project was considered to be way too high for PARC researchers. Therefore, in order to reduce the burden to PARC, the DMP team had weekly meetings in 2025 to discuss the relevance for PARC of the questions one- by-one, without compromising the FAIRness of research outputs and (future) possibility to include domain specific knowledge (e.g. via reference FAIR Implementation Profiles which have machine actionable resources to choose from). This was followed with a test/pilot phase involving three projects from WP5. Post the trial phase, further reduction of questions as well as modification and addition of questions to accommodate PARC project needs were made to create an updated version of the Knowledge Model.] to suit PARC's ambitions and
 commitments in the Grant Agreement (GA) from a template proposed by
 Europe\'s distributed research infrastructure for life science data
 (ELIXIR). This DSW model and tool was originally prepared under the
