@@ -64,6 +64,8 @@ format:
       - cosmo
       - brand
     logo: images/PARC.svg
+    grid:
+      body-width: 900px
   # pdf:
   #   documentclass: scrreprt
   #   include-in-header: header.tex
