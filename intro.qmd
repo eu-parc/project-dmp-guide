@@ -1,5 +1,7 @@
 # Introduction
 
+![DMP and Funding | [FAIR Wizard](https://www.linkedin.com/posts/fair-wizard_dmp-and-funding-activity-7402636612335194113-PoQp)](/images/fairwizard_dmp.jpg){width=100%}
+
 Good data management in projects help ensure the project creates
 long-term value by making data readily Findable, Accessible,
 Interoperable, and Reusable (FAIR)[@FAIR]. Through a set of guiding questions, data
