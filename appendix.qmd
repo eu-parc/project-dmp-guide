@@ -4,8 +4,7 @@
     questions in grey coloured font are optional. Further, this is work
     still in progress, for the moment, you can ignore the completion of
     these optional questions if very confusing. Please get in touch with
-    WP7 DMP team at
-    [**wp7-dmp-troubleshooters@googlegroups.com**](mailto:wp7-dmp-troubleshooters@googlegroups.com)
+    the {{< var people.dmpteam >}}
     or Data Champions/ Data Liaisons if you want assistance.
 
 2.  Filling optional questions will enrich the DMP. Example, the
