@@ -98,10 +98,26 @@ For next steps, go to page 11, point 5.
 
     ![Screenshot which shows the available user rights. Give your project members and WP7 DMP Troubleshooters (and if needed, WP7 Data Liaison) suitable user rights.](images/guide/image19.png){#fig-available-user-rights}.
 
-    The access conditions^[From: <https://guide.fair-wizard.com/en/production/applications/data-management-planner/projects/list/detail/sharing.html>] related to different user-right categories are
-    provided in Figure 12.
+    The access conditions related to different user-right categories (from [DSW instructions on Sharing](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/sharing.html)) are
+    provided below.
 
-    ![User rights associated with different levels of "access" to the Project-level DMP.](images/guide/image20.png){#fig-user-rights-access-project-level-dmp}
+    | | Viewer | Commenter | Editor | Owner |
+    |:----|:-----:|:------:|:-----:|:------:|
+    | View project          | ✔ | ✔ | ✔ | ✔ |
+    | Metrics               | ✔ | ✔ | ✔ | ✔ | 
+    | Preview               | ✔ | ✔ | ✔ | ✔ |    
+    | View documents        | ✔ | ✔ | ✔ | ✔ |                
+    | Comment on project    |   | ✔ | ✔ | ✔ |    
+    | Change answers        |   |   | ✔ | ✔ | 
+    | TODOs                 |   |   | ✔ | ✔ | 
+    | Version history       |   |   | ✔ | ✔ | 
+    | Create documents      |   |   | ✔ | ✔ | 
+    | Editor notes          |   |   | ✔ | ✔ | 
+    | Sharing settings      |   |   |   | ✔ | 
+    | Project settings      |   |   |   | ✔ | 
+
+    : Role permissions
+
 
 9.  Please select the DMP development phase from the drop-down menu.
 
