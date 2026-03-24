@@ -1,6 +1,6 @@
 # Create a DMP project
 
-## Creating a project-DMP from a Project Template (Method 1)
+## Creating a project DMP from the PARC Project-level DMP Template
 
 1.  **Decide first within your project who would be responsible for
     creating the project DMP in the DSW.** Select Projects from the
@@ -25,46 +25,15 @@
 
     ![Screenshot -- "Name" field where name of your project (i.e., project ID) is to be typed](images/guide/image11.png){#fig-name-field-project-id}
 
-
-For next steps, go to page 11, point 5.
-
-## Creating a project-DMP from a Project Template (Method 2)
-
-1.  Clear selection (see the text within the red bordered circle below)
-    next to your name (you will find the various Projects related to
-    DMP).
-
-    ![Click on "Clear Selection" to view all the projects (those which allow public viewing) in the DSW environment.](images/guide/image12.png){#fig-clear-selection-view-projects}
-
-2.  You can search the PARC Project-level DMP template by using the
-    "search projects" box and using the term "PARC Project-level DMP".
-    See the boxes with red coloured borders in Figure 9.
-
-    ![Screenshot to show key aspects for selecting the PARC Project-level DMP template.](images/guide/image13.png){#fig-key-aspects}
-
-3.  Click on the three dots next to the PARC project-level DMP. Then
-    select "Create project from the template". **Please note that
-    project teams should together make one instance of one project
-    specific DMP per PARC project.** **The project personnel/researchers
-    who are responsible (as per roles provided in the Appendix) for
-    creating, filling, and editing the DMP should create the instance**.
-
-    ![Screenshot to show how to create a PARC Project-level DMP from the template.](images/guide/image14.png){#fig-create-parc-project-level-dmp-from-template}
-
-4.  After clicking the "Create project from the template" button, you
-    will get the screen as shown in Figure 11. Give a name to your
-    Project-DMP using the project ID (e.g., P7.2.2a_Y1_Environment) and
-    click the blue "Create" button.
-
-    ![Type the short name (PARC project ID) of your project in the "name" box and select "Create."](images/guide/image15.png){#fig-parc-project-id-name-field}
-
-5.  You will see the screen as shown in Figure 12.
+5.  You will see the screen as shown below.
 
     ![Screenshot showing the questions in the PARC Project-level DMP. On the left hand side you can see the snapshot of phase of the DMP (i.e., Before Submitting the DMP) and sections showing the main stages in the research data lifecycle: re-using (existing) data, creating and collecting data, processing data, interpreting data, preserving data, access to data. The number next to the sections/chapters indicates the number of mandatory questions that remain to be answered.](images/guide/image16.png){#fig-questions}
 
+## Sharing your project DMP with collaborators/WP7{#sec-sharing}
+
 6.  Use the **Share** button to share the DMP draft with project members
     from your project, Data Champions/ Data Liaisons, who have
-    registered to the DSW wizard and who can help you fill in the
+    registered to the DSW Wizard and who can help you fill in the
     details. **Please ensure that you have all relevant members (only
     select a small group of owners) of your project to sign up and agree
     upon [one common DSW/DMP instance for your Project]{.underline}.**
@@ -118,10 +87,13 @@ For next steps, go to page 11, point 5.
 
     : Role permissions
 
+## Selecting the right project phase
 
 9.  Please select the DMP development phase from the drop-down menu.
 
     ![Screenshot which shows there are four phases provided in the Wizard (see "select phase" for explanations.)](images/guide/image21.png){#fig-four-phases-wizard}
+
+## Filling in the DMP
 
 10. You can add comments (see red bordered circle at the top right in
     Figure 14) for project members and then assign them (see the person
@@ -141,6 +113,8 @@ For next steps, go to page 11, point 5.
     need to attend to/come back to.
 
     ![Screenshot to show the "Add TODO" button](images/guide/image23.png){#fig-add-todo-button}
+
+## Exporting your DMP as Document
 
 12. In order to keep track of your DMP at different stages of completion
     (see Tip 3), you can export your DMP in various formats (PDF, MS

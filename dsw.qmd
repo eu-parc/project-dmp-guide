@@ -13,7 +13,7 @@
     :::
 
     One project member should  create the DMP project in the DSW and then 
-    "share" (see point 6) it with other project members who
+    "share" (see @sec-sharing) it with other project members who
     would be contributing to the DMP in various capacities. After you
     have included relevant details (e.g., your email id) to complete the
     registration, you will get the activation link sent to the email id
