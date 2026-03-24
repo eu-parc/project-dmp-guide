@@ -1,5 +1,7 @@
 project:
   type: book
+  preview:
+    browser: false
 
 book:
   title: "Project DMP User Guide"
