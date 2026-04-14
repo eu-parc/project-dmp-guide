@@ -74,6 +74,13 @@ book:
   repo-url: https://github.com/eu-parc/project-dmp-guide
   repo-branch: main
   repo-actions: [edit, issue]
+  search: true
+  sidebar:
+    tools:
+      - icon: envelope
+        href: mailto:wp7-dmp-troubleshooters@googlegroups.com
+    # footer: sidebar_footer.qmd
+
 
 bibliography: references.bib
 
