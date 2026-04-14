@@ -194,14 +194,25 @@
     ]
   },
   {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Appendix B — FAQ",
+    "section": "",
+    "text": "WarningThis FAQ is a work in progress\n\n\n\nAdditional questions/tips will be added over time.\n\n\n\n\n\n\n\n\nImportantI need help!\n\n\n\nPlease contact the WP7 DMP Team by clicking the  icon on the top-left (below the PARC logo), or by clicking WP7 DMP Troubleshooters.\n\n\n\nGeneral\n\n\n\n\n\n\nNoteExample question\n\n\n\nExample answer",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>FAQ</span>"
+    ]
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "Appendix B — References",
+    "title": "Appendix C — References",
     "section": "",
     "text": "Brug, Fred van de, Tessa Pronk, Penny Nymark, Peter Carsten von der Ohe,\nand Iseult Lynch. 2025. Deliverable D7.2 - PARC FAIR Data Policy\n(PFDP). Version final. Zenodo. https://doi.org/10.5281/zenodo.15005810.\n\n\nBrug, Fred van de, Rob Stierum, Sandrine Fraize-Frontier, et al. 2022.\nDeliverable D7.1 PARC Data Management Plan V1.0 (DMP) WP 7.1.\nVersion 1. PARC. https://doi.org/10.5281/zenodo.17896510.\n\n\nHooft, Rob, Marek Suchánek, Kryštof Komanec, and Jana Martı́nková. 2024.\nCommon DSW Knowledge Model. Version 2.6.7. https://registry.ds-wizard.org/knowledge-models/dsw:root:2.6.7.\n\n\nWilkinson, Mark D, Michel Dumontier, I Jsbrand Jan Aalbersberg, et al.\n2016. “The FAIR Guiding Principles for\nscientific data management and stewardship.” Sci\nData 3 (March): 160018. https://doi.org/10.1038/sdata.2016.18.",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>B</span>  <span class='chapter-title'>References</span>"
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>References</span>"
     ]
   }
 ]
