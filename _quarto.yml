@@ -68,6 +68,7 @@ book:
     - misc.qmd
   appendices:
     - appendix.qmd
+    - faq.qmd
     - references.qmd
   # downloads: [pdf]
   site-url: https://eu-parc.github.io/project-dmp-guide
