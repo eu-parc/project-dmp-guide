@@ -1,16 +1,19 @@
 ---
-callout-appearance: minimal
+callout-appearance: default
+callout-icon: false
+format:
+  html:
+    toc-depth: 4
 ---
 
 ## FAQ
 
-::: {.callout-warning appearance="default"}
+::: {.callout-warning icon="true"}
 ## This FAQ is a work in progress
 Additional questions/tips will be added over time.
 :::
 
-::: {.callout-important appearance="default"}
-
+::: {.callout-important icon="true"}
 ## I need help!
 Please contact the WP7 DMP Team by clicking the {{< bi envelope >}} icon on the top-left (below the PARC logo), or by clicking {{< var people.dmpteam >}}.
 :::
@@ -18,6 +21,23 @@ Please contact the WP7 DMP Team by clicking the {{< bi envelope >}} icon on the 
 ### General {.unnumbered}
 
 ::: {.callout-note }
-## Example question
-Example answer
+## What is the difference between the questions in grey, red, and green?
+The questions in red/green are mandatory, the questions in grey  are optional (in this phase). Some questions will become mandatory at a later DMP phase. Optional questions are often used to clarify responses for mandatory questions with a fixed response format and/or will enrich the DMP. 
 :::
+
+### DMP Questions {.unnumbered}
+
+#### I. Administrative information {.unnumbered} 
+
+::: {.callout-note }
+## We don’t have a link to the project proposal, what should we do?
+You can link to the project proposal in the ANSES Sharepoint. In addition, WP7 will create persistent links to a FAIR summary of the project proposal which they will insert at a later stage
+:::
+
+#### II. Re-using data {.unnumbered}
+#### III. Creating and collecting data {.unnumbered} 
+#### IV. Processing data {.unnumbered}
+#### V. Interpreting data {.unnumbered}
+#### VI. Preserving data {.unnumbered}
+#### VII. Giving access to data {.unnumbered}
+
