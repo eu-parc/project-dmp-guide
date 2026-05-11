@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Project DMP User Guide",
     "section": "",
-    "text": "Preface\n\n\n\n\n\n\nWarning\n\n\n\nThis guide is a work in progress. It is not yet complete and likely contains errors.\n\n\n\nFunding\n\n\n\n\n\nThis partnership has received funding from the European Union’s Horizon Europe research and innovation programme under Grant Agreement No 101057014.",
+    "text": "Welcome\nWelcome to the PARC Project-level Data Management Plan (DMP) User Guide. This guide contains all information for you to start documenting your project’s data management in the PARC Project-level DMP template in the PARC Data Stewardship Wizard (often abbreviated by the WP7 DMP Team as “the DSW”).\nWe recommend you start with the following two videos:\n\nPARC Data Management Plan/Data Stewardship Wizard Instruction Video:\n\nPARC Data Stewardship Wizard Walkthrough:\n\n\nThen continue creating/developing your project’s DMP using this guide as reference.\n\n\n\n\n\n\nNotePARC Handbook\n\n\n\nPlanning and deadlines for current and past projects can be found in the PARC Handbook.",
     "crumbs": [
-      "Preface"
+      "Welcome"
     ]
   },
   {
