@@ -91,16 +91,17 @@ book:
 
 
 bibliography: references.bib
+#csl: uob.csl
 
 format:
   html:
     theme:
       - cosmo
       - brand
+      - custom.scss
     logo: images/PARC.svg
     grid:
       body-width: 900px
-    css: styles.css
     include-in-header:
       - text: |
           <link rel="license" href="https://spdx.org/licenses/CC-BY-4.0.html">
