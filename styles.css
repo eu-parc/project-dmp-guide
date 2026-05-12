@@ -1,9 +1,0 @@
-.nav-footer-left {
-  flex: 0 0 40%; /* Growth: 0, Shrink: 0, Basis: 40% */
-}
-.nav-footer-right {
-  flex: 0 0 40%; /* Growth: 0, Shrink: 0, Basis: 40% */
-}
-.nav-footer-center {
-  flex: 0 0 20%; /* Growth: 0, Shrink: 0, Basis: 40% */
-}
