@@ -30,6 +30,11 @@ The questions in red/green are mandatory, the questions in grey  are optional (i
 #### I. Administrative information {.unnumbered} 
 
 ::: {.callout-note }
+## My affiliation doesn't show in the dropdown?
+Sometimes it helps to type the full name of the institution. If it still doesn't show up, check if your affiliation is registered at https://ror.org/, if not, just provide the URL to your affiliation homepage. 
+:::
+
+::: {.callout-note }
 ## We don’t have a link to the project proposal, what should we do?
 You can link to the project proposal in the ANSES Sharepoint. In addition, WP7 will create persistent links to a FAIR summary of the project proposal which they will insert at a later stage
 :::
