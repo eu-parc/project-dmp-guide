@@ -44,7 +44,7 @@
     ![Screenshot to show where to click to share the DMP with other members of the DMP-team for the project.](images/guide/image17.png){#fig-share-dmp}
 
 7.  After clicking the "Share" button, start adding users based on the
-    Roles defined in Appendix. In @fig-share-dmp, when the first few letters
+    Roles defined in Appendix. In @fig-make-project-dmp-visible, when the first few letters
     of a person's name are put in the "Users" field, we get a drop down
     and you can select that person to add as a user. **Please make sure
     that the person you want to add as a user has signed up to the DSW,
