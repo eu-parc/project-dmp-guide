@@ -14,13 +14,13 @@ DMP.
 
     ![Screenshot shows "updates available" for updating a project when a new KM is announced.](images/guide/image28.png){#fig-updates-available-km}
 
-2.  You will get a screen as shown in Figure 25.
+2.  You will get a screen as shown in @fig-updating-dsw-knowledge-model.
 
     ![Screenshot of steps to updating DSW Knowledge Models for updating project questionnaires/templates. The latest version under the heading "New Knowledge Model" appears automatically in the box named "new version."](images/guide/image29.png){#fig-updating-dsw-knowledge-model}
 
 3.  Though the latest version under the heading "new knowledge model"
     appears automatically, you can check if the knowledge model is of
-    the latest version. See screenshot in Figure 26. Select the "Create"
+    the latest version. See screenshot in @fig-knowledge-model-versions. Select the "Create"
     button (blue coloured box).
 
     ![The screenshot shows different versions of the Knowledge Model](images/guide/image30.png){#fig-knowledge-model-versions}
