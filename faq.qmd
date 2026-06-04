@@ -8,16 +8,6 @@ format:
 
 ## FAQ
 
-::: {.callout-warning icon="true"}
-## This FAQ is a work in progress
-Additional questions/tips will be added over time.
-:::
-
-::: {.callout-important icon="true"}
-## I need help!
-Please contact the WP7 DMP Team by clicking the {{< bi envelope >}} icon on the top-left (below the PARC logo), or by clicking {{< var people.dmpteam >}}.
-:::
-
 ### General {.unnumbered}
 
 ::: {.callout-note }
@@ -26,17 +16,22 @@ It is advised that each PARC project identifies their DMP contact point who will
 It’s advised that 5-8 people (based on project size) are given edit rights to the DMP to make changes and update the DMP as project outputs (datasets, publications, data related publications, inputs to PARC Deliverables etc.,) become available, even if this is after the end of the project. 
 The information regarding the datasets generated/reused in the project is very important to achieve PARC Key Performance Indicators (i.e., that 100% of PARC metadata is FAIR and that 80% of PARC data is FAIR by the end of PARC).  
 :::
+
 ::: {.callout-note }
 ## We follow different practices, have different policies and data access conditions, temporary restrictions on reuse of data, physical sample preservation approaches, etc. How should we answer questions regarding these aspects?
 We advise that try to reach a consensus within the project members as some questions in DMP are intended to be responded to in a collaborative fashion. If no consensus to follow a particular approach is reached, provide as much information as possible in free text boxes available and make it clear which institutes are using which of the alternative approaches documented. If unsure, contact WP7 DMP team. Regarding access conditions of data, PARC Grant Agreement, Annexe 5 provides details about “access rights” amongst beneficiaries.
 :::
+
 ::: {.callout-note }
 ## What is the difference between the questions in grey, red, and green?
 The questions in red/green are mandatory, the questions in grey  are optional (in this phase). Some questions will become mandatory at a later DMP phase. Optional questions are often used to clarify responses for mandatory questions with a fixed response format and/or will enrich the DMP. 
 :::
+
 ::: {.callout-note }
 ## What does the “Metrics” tab show?
 Some of the responses in the DMP are used by the WP7 team to capture whether the responses in the DMP are sufficient to ensure that FAIR data is planned to be achieved. For example, the data being reported in PARC data reporting templates would give a FAIRness score. Note that the DMP is just a plan, and it is only when the actions described in the DMP are actually implemented by the data-generating partners in the project that the data is actually FAIR.  Implementation of the DMP is verified by the project managers. The metrics cover the Findability of Data, the Accessibility of Data etc.
+
+![](images/guide/image44.png)
 :::
 ### DMP Questions {.unnumbered}
 
@@ -69,29 +64,38 @@ If the data was curated from scientific journals or grey literature, into an MS 
 :::
 
 #### III. Creating and collecting data {.unnumbered} 
+
 ::: {.callout-note }
 ## If we don’t have URLs or PIDs (e.g., doi) for datasets reused, what should we do?
 If the data was curated from scientific journals or grey literature, into an MS Excel or such, this should be deposited in Zenodo to generate a DOI.  This can be closed / embargoed if needed until the paper is published. If data isn’t submitted in Zenodo, add as much detail as possible in the box provided for adding doi (non-URL input is accepted).
 :::
+
 ::: {.callout-note }
 ## How should we answer the questions related to storing of physical samples?
 Various project partners will practice different ways to preserve physical samples and with various aims. Add all practices adopted to preserve physical samples for the long- and thereby supporting its potential reuse in the box provided. 
 :::
+
 ::: {.callout-note }
 ## We have different practices of keeping track of “provenance” of data, how should we respond to the related questions?
 Choose option “d. We use other arrangements” and add all details in the text box allowing free text. 
 :::
+
 ::: {.callout-note }
 ## We don’t want to make blank/unfilled consent forms available; would it impact the FAIRness of resulting data?  actices of keeping track of “provenance” of data, how should we respond to the related questions?
 Making available blank consent forms is important for data reuse and hence it is advised to make them available to achieve high FAIRness scores. Access to the blank/unfilled consent form helps to know whether reuse requires new consent, what people consented to, prevents mission creep, accidental misuse, ethical violations, legal non-compliance, etc. Hence, it is advised to choose option b. (i.e. yes) for the question related to consent forms.
 :::
+
 ::: {.callout-note }
 ## How do we respond to the question on levels of identifiability for the stored data?
 Multiple choices are allowed for the question (no.: III.8.b.1.a.4.a.1). However, since individual partners in the project could have different levels of anonymisation depending on the data and its use, it is advised that DMP contributors fill the text field provided under “III.8.b.1.a.4.a.2 Elaborate on different levels of identifiability and your safeguards".
 :::
+
 #### IV. Processing data {.unnumbered}
+
 #### V. Interpreting data {.unnumbered}
+
 #### VI. Preserving data {.unnumbered}
+
 ::: {.callout-note }
 ## How do we respond to the question on archiving data in 'cold storage' after the project finishes as PARC’s ambition is to have data “as open as possible”?
 Raw and/or intermediate data might be in cold storage, depending on the institutions’ policies which could be different. Though all institutional policies get covered in Section I, mention details regarding data storage in the box provided. 
@@ -99,3 +103,7 @@ Raw and/or intermediate data might be in cold storage, depending on the institut
 
 #### VII. Giving access to data {.unnumbered}
 
+::: {.callout-important icon="true"}
+## My question is not in this list and I need help
+Please contact the WP7 DMP Team by clicking the {{< bi envelope >}} icon on the top-left (below the PARC logo), or by clicking {{< var people.dmpteam >}}.
+:::
