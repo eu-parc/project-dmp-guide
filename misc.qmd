@@ -28,12 +28,12 @@ DMP.
 4.  Select "resolve all" (you can check the changes that would be made
     in the updated questionnaire.
 
-    ![In this Figure, the differences between the Source (existing) DSW Knowledge model and the Target (New) DSW Knowledge model are shown, within an existing DMP ("DMP Test Ver 3 UM", with different colours. Ideally, the project specific DMP has been (partially or wholly) completed with the existing Knowledge Model/Questionnaire to meet timely FAIRness of PARC data. Should domain specific changes in the KM (the content for the DMP questionnaire) have appeared in the meantime, then an update of an existing Project DMP can be easily made by "resolving all" and adding any new answers to the questionnaire. This is done by selection of "Resolve all" -- the box at the top right corner, to accept all. Followed by migration (Figure 28)](images/guide/image31.png){#fig-differences-source-target-knowledge-model}
+    ![In this Figure, the differences between the Source (existing) DSW Knowledge model and the Target (New) DSW Knowledge model are shown, within an existing DMP ("DMP Test Ver 3 UM", with different colours. Ideally, the project specific DMP has been (partially or wholly) completed with the existing Knowledge Model/Questionnaire to meet timely FAIRness of PARC data. Should domain specific changes in the KM (the content for the DMP questionnaire) have appeared in the meantime, then an update of an existing Project DMP can be easily made by "resolving all" and adding any new answers to the questionnaire. This is done by selection of "Resolve all" -- the box at the top right corner, to accept all. Followed by migration (@fig-finalise-migration-button)](images/guide/image31.png){#fig-differences-source-target-knowledge-model}
 
 5.  Click "Finalize migration" (red border box, at the top right corner)
     to complete the updation process.
 
-    ![Screenshot showing the "Finalise migration button."](images/guide/image32.png){#fig-finalise-migration-button}
+    ![Screenshot showing the "Finalise migration" button.](images/guide/image32.png){#fig-finalise-migration-button}
 
 ## Cloning your project to create DMP for a similar, yet new project
 
@@ -54,14 +54,14 @@ project.
     ![Screenshot to show the options next to the three dots against each project](images/guide/image28.png){#fig-options-next-three-dots}
 
 3.  After clicking the clone tab from the drop-down menu, you will get
-    the screen shown in Figure 31 to confirm whether you want to create
+    the screen shown in @fig-clone-button to confirm whether you want to create
     a copy of the project. Click the blue coloured button "Clone" to
     make a clone of an already existing project for reuse
 
     ![Figure showing the "Clone" button](images/guide/image34.png){#fig-clone-button}
 
 4.  Give an appropriate name of the project in the "Settings" tab,
-    update the questionnaire template (in Figure 33, pink coloured box
+    update the questionnaire template (in @fig-settings-provide-project-name, pink coloured box
     shows there is a new template available). Also, scroll down the
     screen to check whether the knowledge model is updated (not shown in
     Figure here). Please note: New templates/ templates being
@@ -77,8 +77,8 @@ project.
 
 ## Selecting DMP phases as the project progresses
 
-Refer Figure 17 for the phases of project. You can change the phase of
-the project (see Figure 34). Only by changing the phase will the
+Refer @fig-four-phases-wizard for the phases of project. You can change the phase of
+the project (see @fig-project-phases-selecting-phase). Only by changing the phase will the
 questions related to the next phase appear. When you are starting to
 create the DMP **for the first time for an ongoing project** use the
 phase "Before Submitting the DMP".
@@ -90,14 +90,14 @@ is every six months, can be done more frequently) the DMP in the DSW.
 
 ![Screenshot showing steps to creating a named version of the DMP when an update has been done.](images/guide/image38.png){#fig-named-version-dmp}
 
-Click on the three dots (shown in Figure 35) and provide a suitable name
-for the version and description (see Figure 36). If no name is given to
+Click on the three dots (shown in @fig-named-version-dmp) and provide a suitable name
+for the version and description (see @fig-three-dots-date-screen). If no name is given to
 the version, you can track changes made based on the default date
 template.
 
 ![Screenshot of the screen which appears after the three dots next to date is clicked.](images/guide/image39.png){#fig-three-dots-date-screen}
 
-When you toggle on the "Named version only" tab (see Figure 35), you
+When you toggle on the "Named versions only" tab (see @fig-named-version-dmp), you
 will see only those DMP versions which you have given a name to, thus
 reducing the view of the versions which get recorded automatically as
 per the date when you worked on the DMP.
@@ -106,7 +106,7 @@ per the date when you worked on the DMP.
 
 The document formats help you download the document in various formats,
 such as JSON, LaTeX. Default is HTML for "Preview" purposes which helps
-to track the responses. See Figure 37.
+to track the responses. See @fig-preview-tab-saved-html.
 
 ![Screenshot of the "preview" tab, to track progress in completing the document, is saved in HTML format as default.](images/guide/image40.png){#fig-preview-tab-saved-html}
 
