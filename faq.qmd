@@ -12,7 +12,7 @@ format:
 
 ::: {.callout-note }
 ## Who from the project should be working on the DMP?
-It is advised that each PARC project identifies their DMP contact point who will be the main contact point for WP7. Each contact point may choose to inform WP7 via {{< var people.dmpteam >}} The Project’s Manager and Deputy Manager can first fill the template with the overall knowledge they have about partners, institutional affiliations, etc. 
+It is advised that each PARC project identifies their DMP contact point who will be the main contact point for WP7. Each contact point may choose to inform WP7 via {{< var people.dmpteam >}} .The Project’s Manager and Deputy Manager can first fill the template with the overall knowledge they have about partners, institutional affiliations, etc. 
 It’s advised that 5-8 people (based on project size) are given edit rights to the DMP to make changes and update the DMP as project outputs (datasets, publications, data related publications, inputs to PARC Deliverables etc.,) become available, even if this is after the end of the project. 
 The information regarding the datasets generated/reused in the project is very important to achieve PARC Key Performance Indicators (i.e., that 100% of PARC metadata is FAIR and that 80% of PARC data is FAIR by the end of PARC).  
 :::
