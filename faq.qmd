@@ -41,16 +41,32 @@ Sometimes it helps to type the full name of the institution. If it still doesn't
 ## We don’t have a link to the project proposal, what should we do?
 You can link to the project proposal in the ANSES Sharepoint. In addition, WP7 will create persistent links to a FAIR summary of the project proposal which they will insert at a later stage
 :::
+
 ::: {.callout-note }
 ## What should we answer for the question “To execute the DMP, is additional specialist expertise required?”
 The answer to the question should be “yes” as FAIR data and Data Management needs training and expertise, even if it’s just in using the PARC metadata templates or uploading the metadata to the PARC CRA Hub (as examples). If you have hired people who also contribute to data harmonisation for use in computational models or in the SSbD Toolbox for example, this will be addressed here.
 :::
+
 ::: {.callout-note }
 ## What is the function of the “Add” button?
 For example, if more than one Database has been agreed for use, each should be added and described. Similarly, for different types of data (e.g., images, omics data of different types) the “Add” button can be used to add each data type and then answer the Question for each one.
 :::
+
 #### II. Re-using data {.unnumbered}
+::: {.callout-note }
+## If we don’t have URLs or PIDs (e.g., doi) for datasets reused, what should we do?
+If the data was curated from scientific journals or grey literature, into an MS Excel or such, this should be deposited in Zenodo to generate a DOI.  This can be closed / embargoed if needed until the paper is published. If data isn’t submitted in Zenodo, add as much detail as possible in the box provided for adding doi (non-URL input is accepted).
+:::
+
 #### III. Creating and collecting data {.unnumbered} 
+::: {.callout-note }
+## If we don’t have URLs or PIDs (e.g., doi) for datasets reused, what should we do?
+If the data was curated from scientific journals or grey literature, into an MS Excel or such, this should be deposited in Zenodo to generate a DOI.  This can be closed / embargoed if needed until the paper is published. If data isn’t submitted in Zenodo, add as much detail as possible in the box provided for adding doi (non-URL input is accepted).
+:::
+::: {.callout-note }
+## How should we answer the questions related to storing of physical samples?
+Various project partners will practice different ways to preserve physical samples and with various aims. Add all practices adopted to preserve physical samples for the long- and thereby supporting its potential reuse in the box provided. 
+:::
 #### IV. Processing data {.unnumbered}
 #### V. Interpreting data {.unnumbered}
 #### VI. Preserving data {.unnumbered}
