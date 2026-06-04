@@ -117,12 +117,11 @@
 ## Exporting your DMP as Document
 
 12. In order to keep track of your DMP at different stages of completion
-    (see Tip 3), you can export your DMP in various formats (PDF, MS
-    word, HTML) and export these to your own environment. Suppose
+    , you can export your DMP in various formats (PDF, MS
+    word, HTML) to your own environment. Suppose
     projects update the DMP every six months (we are suggesting this as
     a good practice), a static snapshot of the updated work is saved as
-    a new document (document tab, create new document, see Figures 20
-    and 21) and download/export the filled questionnaire in PDF/Word.
+    a new document (document tab, create new document, see @fig-snapshot-document-tab    and @fig-screenshot-fields-document-name-template-format) and download/export the filled questionnaire in PDF/Word.
     These saved documents will show the progress over time and help in
     PARC KPIs.
 
