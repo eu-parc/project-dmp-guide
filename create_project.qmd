@@ -4,12 +4,12 @@
 
 1.  **Decide first within your project who would be responsible for
     creating the project DMP in the DSW.** Select Projects from the
-    Dashboard (both marked as red boxes on left hand side in Figure 4)
+    Dashboard (both marked as red boxes on left hand side in @fig-screenshot-create-project-from-template)
     and select "Create" button.
 
     ![Screenshot of steps to how to create project from project template.](images/guide/image8.png){#fig-screenshot-create-project-from-template}
 
-2.  The screen shown in Figure 5 appears, select "from project template"
+2.  The screen shown in @fig-from-project-template appears, select "from project template"
     tab.
 
     ![Screenshot to show "from project template" tab.](images/guide/image9.png){#fig-from-project-template}
@@ -25,7 +25,7 @@
 
     ![Screenshot -- "Name" field where name of your project (i.e., project ID) is to be typed](images/guide/image11.png){#fig-name-field-project-id}
 
-5.  You will see the screen as shown below.
+5.  You will see the screen as shown in @fig-questions
 
     ![Screenshot showing the questions in the PARC Project-level DMP. On the left hand side you can see the snapshot of phase of the DMP (i.e., Before Submitting the DMP) and sections showing the main stages in the research data lifecycle: re-using (existing) data, creating and collecting data, processing data, interpreting data, preserving data, access to data. The number next to the sections/chapters indicates the number of mandatory questions that remain to be answered.](images/guide/image16.png){#fig-questions}
 
@@ -44,7 +44,7 @@
     ![Screenshot to show where to click to share the DMP with other members of the DMP-team for the project.](images/guide/image17.png){#fig-share-dmp}
 
 7.  After clicking the "Share" button, start adding users based on the
-    Roles defined in Appendix. In Figure 14, when the first few letters
+    Roles defined in Appendix. In @fig-share-dmp, when the first few letters
     of a person's name are put in the "Users" field, we get a drop down
     and you can select that person to add as a user. **Please make sure
     that the person you want to add as a user has signed up to the DSW,
@@ -57,11 +57,11 @@
     ![If you want to make the Project‑DMP visible to others who are logged‑in the DSW, toggle (slide) the button (where it mentions "visible by all other logged‑in users") to the right. You can choose to make the DMP available as a public link (use the toggle to make the decision). Choose the option "view" (neither comment nor edit) for both logged in users and public link as you would not like anyone with the link to edit or comment. Please note that at the project completion, all DMP links will be public.](images/guide/image18.png){#fig-make-project-dmp-visible}
 
 8.  After adding users for sharing purposes, give them user rights --
-    owner, viewer, editor, commenter (See Figure 16) . You may give
+    owner, viewer, editor, commenter . You may give
     project team members the right to comment or edit. If your project
     has a deputy project manager, make them also an owner. You can add
     the WP7 Data Liaison as an Editor. However, if you want to be able
-    to directly tag WP7 members to comments/aspects (see Figure 14) with
+    to directly tag WP7 members to comments/aspects (@fig-make-project-dmp-visible) with
     which you might need help, make "WP7 DMP Troubleshooters" as
     "owners".
 
@@ -96,9 +96,9 @@
 ## Filling in the DMP
 
 10. You can add comments (see red bordered circle at the top right in
-    Figure 14) for project members and then assign them (see the person
+    @fig-add-comments-assign-wp7) for project members and then assign them (see the person
     emoticon within the second red bordered circle at the right in
-    Figure 14) to check/review the answers. **This is possible only if
+    @fig-add-comments-assign-wp7) to check/review the answers. **This is possible only if
     they are made "owners" or "editors"**. Please search "WP7 DMP
     Troubleshooters" while assigning to the WP7 DMP team. You can
     contact WP7 team via email :
@@ -132,13 +132,13 @@
 
 13. When you select the Document Template, you can see the DMP
     questionnaire version to be used for exporting the questions. Select
-    the latest questionnaire version (in Figure 22, it is 2.16.0)
+    the latest questionnaire version (in @fig-screenshot-fields-document-name-template-format, it is 2.17.0)
 
     ![Screenshot to show how to export the filled questionnaire for PARC KPI purposes.](images/guide/image26.png){#fig-export-filled-questionnaire}
 
 14. After selecting the right questionnaire version, selecting the
-    Document Format (see Figure 21, where Format is a section), and
+    Document Format (see @fig-screenshot-fields-document-name-template-format, where Format is a section), and
     giving the document an appropriate name, hit "create" you will get
-    the screen as shown in Figure 23.
+    the screen as shown in @fig-screenshot-document-created-saves-version.
 
     ![Screenshot which shows document created which saves the version of the completed file.](images/guide/image27.png){#fig-screenshot-document-created-saves-version}
