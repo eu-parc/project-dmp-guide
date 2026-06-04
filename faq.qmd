@@ -24,7 +24,10 @@ Please contact the WP7 DMP Team by clicking the {{< bi envelope >}} icon on the 
 ## What is the difference between the questions in grey, red, and green?
 The questions in red/green are mandatory, the questions in grey  are optional (in this phase). Some questions will become mandatory at a later DMP phase. Optional questions are often used to clarify responses for mandatory questions with a fixed response format and/or will enrich the DMP. 
 :::
-
+::: {.callout-note }
+## What does the “Metrics” tab show?
+Some of the responses in the DMP are used by the WP7 team to capture whether the responses in the DMP are sufficient to ensure that FAIR data is planned to be achieved. For example, the data being reported in PARC data reporting templates would give a FAIRness score. Note that the DMP is just a plan, and it is only when the actions described in the DMP are actually implemented by the data-generating partners in the project that the data is actually FAIR.  Implementation of the DMP is verified by the project managers. The metrics cover the Findability of Data, the Accessibility of Data etc.
+:::
 ### DMP Questions {.unnumbered}
 
 #### I. Administrative information {.unnumbered} 
@@ -38,7 +41,14 @@ Sometimes it helps to type the full name of the institution. If it still doesn't
 ## We don’t have a link to the project proposal, what should we do?
 You can link to the project proposal in the ANSES Sharepoint. In addition, WP7 will create persistent links to a FAIR summary of the project proposal which they will insert at a later stage
 :::
-
+::: {.callout-note }
+## What should we answer for the question “To execute the DMP, is additional specialist expertise required?”
+The answer to the question should be “yes” as FAIR data and Data Management needs training and expertise, even if it’s just in using the PARC metadata templates or uploading the metadata to the PARC CRA Hub (as examples). If you have hired people who also contribute to data harmonisation for use in computational models or in the SSbD Toolbox for example, this will be addressed here.
+:::
+::: {.callout-note }
+## What is the function of the “Add” button?
+For example, if more than one Database has been agreed for use, each should be added and described. Similarly, for different types of data (e.g., images, omics data of different types) the “Add” button can be used to add each data type and then answer the Question for each one.
+:::
 #### II. Re-using data {.unnumbered}
 #### III. Creating and collecting data {.unnumbered} 
 #### IV. Processing data {.unnumbered}
