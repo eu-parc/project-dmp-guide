@@ -75,7 +75,6 @@ book:
     - create_project.qmd
     - misc.qmd
   appendices:
-    - appendix.qmd
     - faq.qmd
     - references.qmd
   # downloads: [pdf]
