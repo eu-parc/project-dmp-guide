@@ -7,9 +7,17 @@ book:
   title: "Project DMP User Guide"
   subtitle: "Creating a PARC Project DMP in the Data Stewardship Wizard"
   page-footer:
-    center:
-      - text: "License: CC-BY 4.0"
-        href: https://creativecommons.org/licenses/by/4.0/
+    left: |
+      ::: {.grid style="align-items: center;" }
+      ::: {.g-col-5}
+      ![](/images/EN_Co-fundedbytheEU_RGB_POS.svg){width=100%}
+      :::
+      ::: {.g-col-7 .small}
+      This partnership has received funding from the European Union’s Horizon Europe research and innovation programme under Grant Agreement No 101057014.
+      :::
+      :::
+    right: |
+      [![](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
   author:
     - name: Indrani Mahapatra
       id: im
@@ -68,23 +76,35 @@ book:
     - misc.qmd
   appendices:
     - appendix.qmd
+    - faq.qmd
     - references.qmd
   # downloads: [pdf]
   site-url: https://eu-parc.github.io/project-dmp-guide
   repo-url: https://github.com/eu-parc/project-dmp-guide
   repo-branch: main
   repo-actions: [edit, issue]
+  search: true
+  sidebar:
+    tools:
+      - icon: envelope
+        href: mailto:wp7-dmp-troubleshooters@googlegroups.com
+
 
 bibliography: references.bib
+#csl: uob.csl
 
 format:
   html:
     theme:
       - cosmo
       - brand
+      - custom.scss
     logo: images/PARC.svg
     grid:
       body-width: 900px
+    include-in-header:
+      - text: |
+          <link rel="license" href="https://spdx.org/licenses/CC-BY-4.0.html">
   # pdf:
   #   documentclass: scrreprt
   #   include-in-header: header.tex
