@@ -18,6 +18,11 @@
     default "PARC Project-level DMP template" as starting point for
     creating a project.
 
+    ::: {.callout-important}
+    ## PARC_T4.1/PEH template for HBM projects
+    For HBM (T4.1) projects, please select the "PARC_T4.1/PEH" template as this includes HBM-specific guidance and pre-filled questions concerning the PEH Data Platform.
+    :::
+
     ![Screenshot to show the selection of PARC Project-level DMP](images/guide/image10.png){#fig-selection-of-parc-project-level-dmp}
 
 4.  Provide the name of the project (preferably project ID) and select
